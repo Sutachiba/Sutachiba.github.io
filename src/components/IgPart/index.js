@@ -1,0 +1,1 @@
+export { IgPart } from "./IgPart";
